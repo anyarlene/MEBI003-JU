@@ -19,6 +19,6 @@ among nutrient availability, phytoplankton growth, phytoplankton stock size and 
 Detritus is added to imply that all dead material pass by this state before reaching inorganic nutrient state: the process of 
 decomposition of organic materials into inorganic minerals by bacteria as shown on the figure below.
 <p>
-    <img src="https://github.com/anyarlene/MEBI003-JU/blob/master/Phillips%20Original%20HIV%20model.PNG" width="520" height="270" />
+    <img src="https://github.com/anyarlene/MEBI003-JU/blob/master/NPZD%20schema.PNG" width="400" height="250" />
 </p>
 
