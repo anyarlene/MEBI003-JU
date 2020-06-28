@@ -12,3 +12,5 @@ Epidemiological model of disease spreading
 <p>
     <img src="https://github.com/anyarlene/MEBI003-JU/blob/master/SIR%20model%20parameters.PNG" width="520" height="270" />
 </p>
+
+
