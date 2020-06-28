@@ -13,7 +13,12 @@ Epidemiological model of disease spreading
     <img src="https://github.com/anyarlene/MEBI003-JU/blob/master/SIR%20model%20parameters.PNG" width="520" height="270" />
 </p>
 
-### . NPZD model
-Modeling micro-organisms (in this case Phytoplankton) dynamics in the oceanic mixed layer
-
+### . NPZD (Nutrient-Phytoplankton-Zooplankton-Detrius) model
+Modeling micro-organisms (in this case Phytoplankton) dynamics in the oceanic mixed layer in order to understand the interactions
+among nutrient availability, phytoplankton growth, phytoplankton stock size and zooplankton stock size.
+Detritus is added to imply that all dead material pass by this state before reaching inorganic nutrient state: the process of 
+decomposition of organic materials into inorganic minerals by bacteria as shown on the figure below.
+<p>
+    <img src="https://github.com/anyarlene/MEBI003-JU/blob/master/Phillips%20Original%20HIV%20model.PNG" width="520" height="270" />
+</p>
 
