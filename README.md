@@ -8,7 +8,7 @@ Coding Phillips' original HIV model and reproducing the main results obtained by
 
 ### . SIR(Susceptible-Infected-Recovered) model
 Epidemiological model of disease spreading
-Parameters used to code and graphically represent SIR model in python
+###### Parameters used to code and graphically represent SIR model in python
 <p>
     <img src="https://github.com/anyarlene/MEBI003-JU/blob/master/SIR%20model%20parameters.PNG" width="520" height="270" />
 </p>
